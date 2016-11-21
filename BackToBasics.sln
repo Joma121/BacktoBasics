@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackToBasics", "BackToBasics\BackToBasics.csproj", "{8A06C641-29A4-42D5-9B95-0A000FB65051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edokan.KaiZen.Colors", "..\Edokan.KaiZen.Colors-master\Edokan.KaiZen.Colors\Edokan.KaiZen.Colors.csproj", "{C2D0F0A1-8C30-4E89-BB61-EB2F88C5C5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A06C641-29A4-42D5-9B95-0A000FB65051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A06C641-29A4-42D5-9B95-0A000FB65051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A06C641-29A4-42D5-9B95-0A000FB65051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A06C641-29A4-42D5-9B95-0A000FB65051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D0F0A1-8C30-4E89-BB61-EB2F88C5C5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D0F0A1-8C30-4E89-BB61-EB2F88C5C5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D0F0A1-8C30-4E89-BB61-EB2F88C5C5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D0F0A1-8C30-4E89-BB61-EB2F88C5C5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
